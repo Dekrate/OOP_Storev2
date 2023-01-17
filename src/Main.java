@@ -74,6 +74,7 @@ public class Main {
                             } catch (ArithmeticException e) {
                                 System.err.println(e.getMessage());
                             }
+                            System.exit(0);
                         }
 
                         default -> throw new IllegalStateException("Unexpected value: " + shopOption);
