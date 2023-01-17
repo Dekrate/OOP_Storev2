@@ -1,0 +1,4 @@
+CHOCOLATE;Polish chocolate;150;3;The best for all family!
+CHOCOLATE;English chocolate;100;3;One of the best in the world!
+JAM;Polish jam;100;4;From the best Polish strawberries!
+JAM;English jam;130;5;From the UK!
